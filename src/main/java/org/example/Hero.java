@@ -1,1 +1,16 @@
-content modificat in base64
+package org.example;
+
+public class Hero {
+    private String name;
+    private int health;
+    private int attackPower;
+    private String inventory;
+
+    // Constructor for Hero
+public Hero(String name, int health, int attackPower, String items) {
+        this.name = name;
+        this.health = health;
+        this.attackPower = attackPower;
+        this.items = items;
+    }
+}
