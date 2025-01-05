@@ -1,6 +1,7 @@
 package org.example;
 
 public class Monster {
+    public int hacuna;
     private String name;
     private int health;
     private  int attckPower;
