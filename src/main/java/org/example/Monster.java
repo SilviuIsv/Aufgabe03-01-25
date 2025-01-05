@@ -10,11 +10,23 @@ public class Monster {
 
         public void roar() {
         System.out.println(name + " roars menacingly!");
+        public void roar() {
+        System.out.println(name + " roars menacingly!");
+    }
+}
+    public void roar() {
+        System.out.println(name + " roars menacingly!");
     }
 }
     private void takeDamage(int damage){
 
         public void roar() {
+        System.out.println(name + " roars menacingly!");
+        public void roar() {
+        System.out.println(name + " roars menacingly!");
+    }
+}
+    public void roar() {
         System.out.println(name + " roars menacingly!");
     }
 }
@@ -23,6 +35,18 @@ public class Monster {
         this.name = name;
         this.health = health;
         this.attckPower = attckPower;
+        public void roar() {
+        System.out.println(name + " roars menacingly!");
+        public void roar() {
+        System.out.println(name + " roars menacingly!");
+    }
+}
+    public void roar() {
+        System.out.println(name + " roars menacingly!");
+    }
+}
+    public void roar() {
+        System.out.println(name + " roars menacingly!");
         public void roar() {
         System.out.println(name + " roars menacingly!");
     }
