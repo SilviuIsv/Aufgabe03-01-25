@@ -1,6 +1,7 @@
 package org.example;
 
 public class Item {
+    public int hacuna;
     private String name;
     private int attackBonus;
     private String effect;
